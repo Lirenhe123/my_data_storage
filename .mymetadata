@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="my_data_storage"
+  id="myeclipse.1512290249072"
+  context-root="/my_data_storage"
+  j2ee-spec="5.0"
+  archive="my_data_storage.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
